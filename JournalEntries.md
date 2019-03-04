@@ -1,5 +1,4 @@
-##Reflective Journal Entries
-
+## Journal Entries
 [The Map Application](https://safe-ridge-26253.herokuapp.com/)<br/>
 [Journal Entries](https://rociomjaime.github.io/techAndActivism/JournalEntries.html) 
 

@@ -1,6 +1,6 @@
 ## Technology and Activism Map Application
 
-[The Map Application](https://github.com/rociomjaime/techAndActivism/edit/master/tomas.html)
+[The Map Application](https://github.com/rociomjaime/techAndActivism/tomas.html)\n
 [Journal Entries](https://github.com/rociomjaime/techAndActivism/edit/master/tomas.html) 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
